@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 THis is the readme content and let me update and we are learning.....updated content
 ##Addressbook Tutoriall lets learn my edit my change change my first jenkinsfilehhhhvbbsdadssd
 this is test adasdasdsadasasasdasdasdads sfsdfs
@@ -81,3 +82,6 @@ To use the built in server adapters of Eclipse, instead of doing "Run As -> Mave
 - *Do not use the suggested J2EE Preview server* as it is outdated, deprecated and does not support Servlet 3, which is required for this applications
 
 *** End of documentation
+=======
+# MILESTONE2
+>>>>>>> fe29b2eb5c9250aa614a1d267ec30a296415bef1
